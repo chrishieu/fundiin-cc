@@ -1,0 +1,39 @@
+{
+    "id": "a5d036ab17fbbee5050fabe86ce34dd2",
+    "email": "fundiin21@gmail.com",
+    "name": {
+        "first": "Hieu Tran",
+        "middle": null,
+        "last": "Bui Asd",
+        "preferred": "Duc Hieu"
+    },
+    "mobile": {
+        "country_code": "65",
+        "number": "0905514106"
+    },
+    "identification": {
+        "type": "",
+        "number": "",
+        "issue": null,
+        "expiry": null
+    },
+    "links": [
+        {
+            "rel": "users.wallets",
+            "href": "https://beta-api.mmvpay.com/sgmmdemo/v1/users/wallets",
+            "method": "GET"
+        },
+        {
+            "rel": "addresses.residential",
+            "href": "https://beta-api.mmvpay.com/sgmmdemo/v1/users/addresses/residential",
+            "method": "GET"
+        }
+    ],
+    "status": {
+        "is_active": true,
+        "text": "active"
+    },
+    "date": {
+        "registration": "2019-08-27T15:43:54+08:00"
+    }
+}
